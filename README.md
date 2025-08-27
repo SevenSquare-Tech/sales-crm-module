@@ -17,3 +17,4 @@ And that's it, go to your domain and login:
 <code> Username: dev@dev.com </code> 
 <code> Password: Dev@123 </code> 
 
+[Here’s the Step-By-Step Guide to Build a Sales Module with Lead Pipeline & Reminders in Laravel.](https://www.sevensquaretech.com/laravel-sales-crm-lead-pipeline-reminder-github/)
